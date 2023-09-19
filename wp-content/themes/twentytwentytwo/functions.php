@@ -32,7 +32,7 @@ if ( ! function_exists( 'twentytwentytwo_support' ) ) :
 endif;
 
 add_action( 'after_setup_theme', 'twentytwentytwo_support' );
-
+this is new line
 if ( ! function_exists( 'twentytwentytwo_styles' ) ) :
 
 	/**
