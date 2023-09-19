@@ -11,7 +11,7 @@
 
 
 if ( ! function_exists( 'twentytwentytwo_support' ) ) :
-
+// this might be useful
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
 	 *
@@ -32,7 +32,7 @@ if ( ! function_exists( 'twentytwentytwo_support' ) ) :
 endif;
 
 add_action( 'after_setup_theme', 'twentytwentytwo_support' );
-
+this is new line needed for a fueature
 if ( ! function_exists( 'twentytwentytwo_styles' ) ) :
 
 	/**
